@@ -1,0 +1,2 @@
+A solução cumpriu o seu papel obedecendo o padrão, uma das principais vantagens na utilização do factory é a flexibilidade, por meio da remoção das dependências explícitas.
+Realizando o encapsulamento do código que tem tendência em mudar, o responsável por instanciar as classes, cada código de criação fica em um único local, em sua própria classe, criando assim um ponto único de atualização.
